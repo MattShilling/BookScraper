@@ -33,5 +33,9 @@ Pick 3.* [here](https://www.python.org/downloads/) and install the package
 
 ```
 run "pip install beautifulsoup4"
+
+run "pip install html5lib"
+
+run "pip install urllib3"
 ```
 
