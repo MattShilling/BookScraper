@@ -9,33 +9,30 @@ Run multiple times to build up your datafile.
 
 ## Windows
 
-```
-Pick 3.*  [here](https://www.python.org/downloads/)
 
-Make sure to enable adding python to PATH
-```
+> Pick 3.* from [here](https://www.python.org/downloads/)
+
+> Make sure to enable adding python to PATH
+
 
 ## Mac
 
-```
-The easiest way is through [Homebrew](https://brew.sh/)
+> The easiest way is through [Homebrew](https://brew.sh/)
 
-Follow directions on their website, then run "brew install python3"
-```
+> Follow directions on their website, then run "brew install python3"
 
 ### OR
 
-```
-Pick 3.* [here](https://www.python.org/downloads/) and install the package
-```
+
+> Pick 3.* from [here](https://www.python.org/downloads/) and install the package
+
 
 ## Then
 
-```
 run "pip install beautifulsoup4"
 
 run "pip install html5lib"
 
 run "pip install urllib3"
-```
+
 
