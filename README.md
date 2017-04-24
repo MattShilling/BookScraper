@@ -29,7 +29,10 @@ Run multiple times to build up your datafile.
 
 ## Then
 
+run "pip install beautifulsoup4"
 
-> run "pip install beautifulsoup4"
+run "pip install html5lib"
+
+run "pip install urllib3"
 
 
